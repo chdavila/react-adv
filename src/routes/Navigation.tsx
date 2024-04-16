@@ -51,15 +51,15 @@ const router = createBrowserRouter([
             {
                 path: "/home",
                 index: true,
-                element: <h1>Home</h1>
+                element: <h1>Home - azure</h1>
             },
             {
                 path: "about",
-                element: <h1>About</h1>
+                element: <h1>About - azure</h1>
             },
             {
                 path: "users",
-                element: <h1>Users page</h1>,
+                element: <h1>Users page  - azure</h1>,
             }
 
         ]
